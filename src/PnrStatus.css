@@ -1,0 +1,53 @@
+.pnr-status {
+    background:rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 10px;
+    
+    margin-top: 20px;
+  }
+  
+  .pnr-status h2 {
+    color: #ffcc00;
+  }
+  
+  .pnr-status p {
+    margin: 5px 0;
+  }
+  
+  .pnr-status ul {
+    list-style-type: none;
+    padding: 0;
+    color: #ffcc00;
+  }
+  
+  .pnr-status li {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+  }
+  
+  .pnr-status input {
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .pnr-status button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffcc00;
+    color: black;
+    cursor: pointer;
+  }
+  
+  .pnr-status button:hover {
+    background-color: #ffaa00;
+  }
+  
+  .error {
+    color: red;
+  }
+  

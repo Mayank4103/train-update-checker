@@ -1,0 +1,40 @@
+.train-status {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+  
+    margin-top: 20px;
+  }
+  
+  .train-status h2 {
+    color: #ffcc00;
+  }
+  
+  .train-status p {
+    margin: 5px 0;
+  }
+  
+  .train-status input {
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .train-status button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffcc00;
+    color: black;
+    cursor: pointer;
+  }
+  
+  .train-status button:hover {
+    background-color: #ffaa00;
+  }
+  
+  .error {
+    color: red;
+  }
+  

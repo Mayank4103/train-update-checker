@@ -1,0 +1,10 @@
+.box{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgb(221, 236, 64);
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px white;
+    padding: 10px;
+
+  }
